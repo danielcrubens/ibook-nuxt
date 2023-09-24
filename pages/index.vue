@@ -17,14 +17,14 @@
   @include screen('medium') {
     grid-template-columns: 1fr 1fr;
   }
-  /*   @include screen('small','medium') {
-    grid-template-columns: 1fr 1fr;
-  } */
+
   @include screen('small') {
     grid-template-columns: 1fr;
   }
 
-
+  /*   @include screen('small','medium') {
+    grid-template-columns: 1fr 1fr;
+  } */
 
   .box {
     background-color: color('dark', 'darkest');
