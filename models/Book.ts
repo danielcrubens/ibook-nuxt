@@ -4,7 +4,6 @@ interface Category {
   name: string
 }
 
-// *¹
 interface Page {
   id: number
   text: string

@@ -36,7 +36,7 @@ export default {
     scss: ['@/components/bosons/*.scss'],
  },
  axios: {
-  baseURL: process.env.NOV_ENV ==='production' ? '':'http://localhost:3333'
+  baseURL:'https://api-ob18.onrender.com',
 },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
