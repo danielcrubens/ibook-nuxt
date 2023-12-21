@@ -1,6 +1,6 @@
 <template>
   <div class="home-template ">
-    <PageTitle text="Bem-vindo ao" strong="iBook?" />
+    <PageTitle text="Bem-vindo ao" strong="iBook!" />
     <Releases/>
   </div>
 </template>

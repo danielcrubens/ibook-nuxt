@@ -2,7 +2,7 @@
   <div>
     <header class="header">
       <nav class="ul items">
-        <li class="item">
+        <li>
           <NuxtLink to="/">
             <Logo />
           </NuxtLink>
